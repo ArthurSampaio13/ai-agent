@@ -14,6 +14,15 @@ Seja para empresas, criadores de conteúdo ou entusiastas, o PostMaker fornece u
 
 ---
 
+## O que são AI Agents?
+
+Os AI Agents (Agentes de Inteligência Artificial) são sistemas projetados para realizar tarefas específicas de forma autônoma, simulando o raciocínio humano. Esses agentes integram habilidades como percepção, aprendizado, planejamento e ação, conectando-se ao ambiente por meio de entradas (inputs) e saídas (outputs). Eles podem interagir com usuários, tomar decisões baseadas em dados, e executar ações, como chamar APIs ou controlar ferramentas físicas, sendo fundamentais para automação e eficiência em diversos contextos.
+
+
+![Screenshot 2024-04-07 at 2.53.23 PM.png](/imgs/agent.png)
+> Legenda da Imagem:
+> A imagem ilustra o funcionamento de um AI Agent, mostrando como ele interage com o ambiente (Environment), processa informações (Perception), armazena e utiliza conhecimento (Brain) e executa ações (Action). Os agentes recebem entradas do ambiente, como texto, áudio ou imagens, processam essas informações em seu "cérebro" usando memória e conhecimento acumulado, e tomam decisões ou realizam ações, como chamar APIs ou operar ferramentas físicas. Este ciclo reflete como os agentes de inteligência artificial combinam percepção, planejamento e ação para resolver problemas de forma autônoma.
+
 ## Requisitos
 
 - **Python**: É **obrigatório** utilizar a versão **3.12.3** do Python. Outras versões não são suportadas.
